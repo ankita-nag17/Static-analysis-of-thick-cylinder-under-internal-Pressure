@@ -1,0 +1,1 @@
+All the objectives are satisfied , all data are verified by this modelling process. All ideas are clearly seen by the diagrams and this kind of ANSYS simulation also clear our theoretical knowledge. Doing parametric study we can get the idea of variations of properties with the change of parameters like radius, E, poison ratio etc
